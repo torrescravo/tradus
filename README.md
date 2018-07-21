@@ -1,0 +1,2 @@
+# tradus
+traduzindo tudo
